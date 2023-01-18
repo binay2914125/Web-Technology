@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *{
     margin: 0;
     padding: 0;
@@ -38,3 +39,45 @@ p{
     font-size: 30px;
 }
 
+=======
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.layout3{
+    background-color: rgb(58, 56, 64);
+    display: flex;
+    height: 850px;
+}
+
+img{
+    width: 850px;
+    height: 850px;
+}
+
+.one{
+    flex: 1;
+}
+
+.two{
+    flex: 1;
+    padding-left: 100px;
+    color: white;
+}
+
+h1{
+    padding-top: 150px;
+    padding-bottom: 200px;
+    font-size: 90px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    font-size: x-large;
+    padding-bottom: 20px;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+
+>>>>>>> a6b6c42382583b831555800eb284d71451922a14

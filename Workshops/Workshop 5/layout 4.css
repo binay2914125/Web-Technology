@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *{
     padding: 0;
     margin: 0;
@@ -44,4 +45,52 @@ p{
 h3{
     padding-top: 30px;
     font-size: x-large;
+=======
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.layout4{
+    background-color: rgb(255, 183, 2);
+    height: 850px;
+    width: 1500px;
+    margin-left: 100px;
+}
+
+.flex{
+    display: flex;
+
+}
+
+h1{
+    text-align: center;
+    padding: 50px;
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+img{
+    width: 90%;
+    padding-bottom: 40px;
+}
+
+h2,p,h3{
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h2{
+    font-size:xx-large;
+}
+
+p{
+    font-size: larger;
+}
+
+h3{
+    padding-top: 30px;
+    font-size: x-large;
+>>>>>>> a6b6c42382583b831555800eb284d71451922a14
 }
