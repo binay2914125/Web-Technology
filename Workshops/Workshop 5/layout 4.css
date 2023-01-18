@@ -12,7 +12,7 @@
 
 .flex{
     display: flex;
-
+    /* justify-content: space-between; */
 }
 
 h1{
