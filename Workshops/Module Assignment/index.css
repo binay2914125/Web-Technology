@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+body{
+    background-color:#e6f9f1;
+}
+
+div{
+    display: flex;
+    background-color:#2F4858;
+    padding: 30px;
+}
+
+p{
+    color: #ffffff;
+    padding-right: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#one{
+    padding-left: 500px;
+}
